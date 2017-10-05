@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1507184440 source:c:\users\hunter\desktop\clases de campus\funcionesparaexamen\practicafinalmierda\automovil.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"automovil.h"
+
+1507161442 c:\users\hunter\desktop\clases de campus\funcionesparaexamen\practicafinalmierda\validar.h
+
+1507164792 c:\users\hunter\desktop\clases de campus\funcionesparaexamen\practicafinalmierda\automovil.h
+
+1507183658 source:c:\users\hunter\desktop\clases de campus\funcionesparaexamen\practicafinalmierda\duenio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+	"duenio.h"
+
+1507164792 c:\users\hunter\desktop\clases de campus\funcionesparaexamen\practicafinalmierda\duenio.h
+
+1507184759 source:c:\users\hunter\desktop\clases de campus\funcionesparaexamen\practicafinalmierda\estacionamiento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"duenio.h"
+	"automovil.h"
+	"validar.h"
+	"estacionamiento.h"
+
+1507179225 c:\users\hunter\desktop\clases de campus\funcionesparaexamen\practicafinalmierda\estacionamiento.h
+
+1507184572 source:c:\users\hunter\desktop\clases de campus\funcionesparaexamen\practicafinalmierda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"duenio.h"
+	"automovil.h"
+	"estacionamiento.h"
+	"validar.h"
+
+1507183658 source:c:\users\hunter\desktop\clases de campus\funcionesparaexamen\practicafinalmierda\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"validar.h"
+
